@@ -1,0 +1,11 @@
+C:\Users\ASUS\Documents\FPDw4\bin\Debug\netcoreapp3.1\FPDw4.exe
+C:\Users\ASUS\Documents\FPDw4\bin\Debug\netcoreapp3.1\FPDw4.deps.json
+C:\Users\ASUS\Documents\FPDw4\bin\Debug\netcoreapp3.1\FPDw4.runtimeconfig.json
+C:\Users\ASUS\Documents\FPDw4\bin\Debug\netcoreapp3.1\FPDw4.runtimeconfig.dev.json
+C:\Users\ASUS\Documents\FPDw4\bin\Debug\netcoreapp3.1\FPDw4.dll
+C:\Users\ASUS\Documents\FPDw4\bin\Debug\netcoreapp3.1\FPDw4.pdb
+C:\Users\ASUS\Documents\FPDw4\obj\Debug\netcoreapp3.1\FPDw4.csprojAssemblyReference.cache
+C:\Users\ASUS\Documents\FPDw4\obj\Debug\netcoreapp3.1\FPDw4.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\FPDw4\obj\Debug\netcoreapp3.1\FPDw4.AssemblyInfo.cs
+C:\Users\ASUS\Documents\FPDw4\obj\Debug\netcoreapp3.1\FPDw4.dll
+C:\Users\ASUS\Documents\FPDw4\obj\Debug\netcoreapp3.1\FPDw4.pdb
