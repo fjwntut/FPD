@@ -35,11 +35,11 @@ namespace FPDw6
                 }
                 Console.WriteLine("");
             }
-            
+
             Console.WriteLine("Nested loop: Triangle");
             for (int b = 0; b < 9; b++)
             {
-                for (int c = 0; c < 9; c++)
+                for (int c = 0; c < b; c++)
                 {
                     Console.Write("*");
                 }
@@ -49,11 +49,11 @@ namespace FPDw6
             Console.WriteLine("Nested loop: Flipped Triangle");
             for (int b = 0; b < 9; b++)
             {
-                for (int d = 0; d < (9-b); d++)
+                for (int d = 0; d < (9 - b); d++)
                 {
                     Console.Write(" ");
                 }
-                for (int c = 0; c <= 9; c++)
+                for (int c = 0; c <= b; c++)
                 {
                     Console.Write("*");
                 }

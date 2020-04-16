@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS\\Documents\\FPDw5\\FPDw5.csproj": {}
+    "C:\\Users\\FOO\\Documents\\FPD\\FPD\\FPDw5\\FPDw5.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS\\Documents\\FPDw5\\FPDw5.csproj": {
+    "C:\\Users\\FOO\\Documents\\FPD\\FPD\\FPDw5\\FPDw5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\Documents\\FPDw5\\FPDw5.csproj",
+        "projectUniqueName": "C:\\Users\\FOO\\Documents\\FPD\\FPD\\FPDw5\\FPDw5.csproj",
         "projectName": "FPDw5",
-        "projectPath": "C:\\Users\\ASUS\\Documents\\FPDw5\\FPDw5.csproj",
-        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS\\Documents\\FPDw5\\obj\\",
+        "projectPath": "C:\\Users\\FOO\\Documents\\FPD\\FPD\\FPDw5\\FPDw5.csproj",
+        "packagesPath": "C:\\Users\\FOO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\FOO\\Documents\\FPD\\FPD\\FPDw5\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\FOO\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
