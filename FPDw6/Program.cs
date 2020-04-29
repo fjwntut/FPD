@@ -12,18 +12,18 @@ namespace FPDw6
             {
                 Console.WriteLine("吃蘋果");
                 i++;
-            } while (i <= 5);
+            } while (i < 5);
 
             Console.WriteLine("Count to 5 (while loop)");
             int j = 0;
-            while (j <= 5)
+            while (j < 5)
             {
                 Console.WriteLine("吃蘋果");
                 j++;
             }
 
             Console.WriteLine("Count to 5 (for loop)");
-            for (int a = 0; a <= 5; a++)
+            for (int a = 0; a < 5; a++)
             {
                 Console.Write("吃蘋果");
             }
