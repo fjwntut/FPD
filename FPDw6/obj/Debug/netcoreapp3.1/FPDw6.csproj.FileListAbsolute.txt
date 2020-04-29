@@ -9,6 +9,7 @@ C:\Users\ASUS\Documents\FPDw6\obj\Debug\netcoreapp3.1\FPDw6.AssemblyInfoInputs.c
 C:\Users\ASUS\Documents\FPDw6\obj\Debug\netcoreapp3.1\FPDw6.AssemblyInfo.cs
 C:\Users\ASUS\Documents\FPDw6\obj\Debug\netcoreapp3.1\FPDw6.dll
 C:\Users\ASUS\Documents\FPDw6\obj\Debug\netcoreapp3.1\FPDw6.pdb
+<<<<<<< HEAD
 C:\Users\ASUS\Documents\FPD\FPDw6\bin\Debug\netcoreapp3.1\FPDw6.exe
 C:\Users\ASUS\Documents\FPD\FPDw6\bin\Debug\netcoreapp3.1\FPDw6.deps.json
 C:\Users\ASUS\Documents\FPD\FPDw6\bin\Debug\netcoreapp3.1\FPDw6.runtimeconfig.json
@@ -20,3 +21,16 @@ C:\Users\ASUS\Documents\FPD\FPDw6\obj\Debug\netcoreapp3.1\FPDw6.AssemblyInfoInpu
 C:\Users\ASUS\Documents\FPD\FPDw6\obj\Debug\netcoreapp3.1\FPDw6.AssemblyInfo.cs
 C:\Users\ASUS\Documents\FPD\FPDw6\obj\Debug\netcoreapp3.1\FPDw6.dll
 C:\Users\ASUS\Documents\FPD\FPDw6\obj\Debug\netcoreapp3.1\FPDw6.pdb
+=======
+C:\Users\FOO\Documents\FPD\FPD\FPDw6\bin\Debug\netcoreapp3.1\FPDw6.exe
+C:\Users\FOO\Documents\FPD\FPD\FPDw6\bin\Debug\netcoreapp3.1\FPDw6.deps.json
+C:\Users\FOO\Documents\FPD\FPD\FPDw6\bin\Debug\netcoreapp3.1\FPDw6.runtimeconfig.json
+C:\Users\FOO\Documents\FPD\FPD\FPDw6\bin\Debug\netcoreapp3.1\FPDw6.runtimeconfig.dev.json
+C:\Users\FOO\Documents\FPD\FPD\FPDw6\bin\Debug\netcoreapp3.1\FPDw6.dll
+C:\Users\FOO\Documents\FPD\FPD\FPDw6\bin\Debug\netcoreapp3.1\FPDw6.pdb
+C:\Users\FOO\Documents\FPD\FPD\FPDw6\obj\Debug\netcoreapp3.1\FPDw6.csprojAssemblyReference.cache
+C:\Users\FOO\Documents\FPD\FPD\FPDw6\obj\Debug\netcoreapp3.1\FPDw6.AssemblyInfoInputs.cache
+C:\Users\FOO\Documents\FPD\FPD\FPDw6\obj\Debug\netcoreapp3.1\FPDw6.AssemblyInfo.cs
+C:\Users\FOO\Documents\FPD\FPD\FPDw6\obj\Debug\netcoreapp3.1\FPDw6.dll
+C:\Users\FOO\Documents\FPD\FPD\FPDw6\obj\Debug\netcoreapp3.1\FPDw6.pdb
+>>>>>>> 88df9d689caa811b44e46214f1759946ce872fd4

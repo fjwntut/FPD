@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\ASUS\\Documents\\FPD\\FPDw6\\FPDw6.csproj": {}
   },
   "projects": {
@@ -12,9 +13,22 @@
         "projectPath": "C:\\Users\\ASUS\\Documents\\FPD\\FPDw6\\FPDw6.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\ASUS\\Documents\\FPD\\FPDw6\\obj\\",
+=======
+    "C:\\Users\\FOO\\Documents\\FPD\\FPD\\FPDw6\\FPDw6.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\FOO\\Documents\\FPD\\FPD\\FPDw6\\FPDw6.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\FOO\\Documents\\FPD\\FPD\\FPDw6\\FPDw6.csproj",
+        "projectName": "FPDw6",
+        "projectPath": "C:\\Users\\FOO\\Documents\\FPD\\FPD\\FPDw6\\FPDw6.csproj",
+        "packagesPath": "C:\\Users\\FOO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\FOO\\Documents\\FPD\\FPD\\FPDw6\\obj\\",
+>>>>>>> 88df9d689caa811b44e46214f1759946ce872fd4
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\FOO\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
